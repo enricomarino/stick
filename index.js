@@ -1,11 +1,9 @@
 /*
  * stick
- * JavaScript light MVC library
- * Copyright 2012 Enrico Marino (http://onirame.no.de)
+ * JavaScript MVC view library
+ * Copyright 2012 Enrico Marino
  * MIT License
  */ 
-
-!(function (exports) {
 
   /*
    * Library namespace
@@ -155,5 +153,3 @@
     this.root.hide();
     return this;
   };
-
-}(this));

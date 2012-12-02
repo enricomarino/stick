@@ -1,0 +1,13 @@
+{
+  "name": "stick",
+  "repo": "onirame/stick",
+  "version": "0.0.2",
+  "description": "JavaScript MVC view library",
+  "keywords": ["html", "MVC", "view"],
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT"
+}
